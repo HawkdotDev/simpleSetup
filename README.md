@@ -21,26 +21,14 @@ To use simpleSetup, run one of the available commands:
 
 Initialize the project:
 
-```
-bash
-
-```
-
 ```bash
 simpleSetup init
-
 ```
 
 Generate or update the README.md file:
 
-```
-bash
-
-```
-
 ```bash
 simpleSetup readme
-
 ```
 
 ## Features
